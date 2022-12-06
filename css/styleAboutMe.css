@@ -1,0 +1,68 @@
+#title {
+    background-color:darkred;
+}
+
+.container-fluid{
+    padding: 3% 12%;
+}
+
+#experience {
+    font-family:'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-size: large;
+    padding: 2%;
+}
+
+#RESEARCH {
+    text-align: center;
+}
+
+h1{
+    font-family: 'Inter';
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: white;
+}
+
+h3 {
+    font-family: 'Playfair Display', sans-serif;
+    font-weight: bold;
+    color: black;
+    padding: 3px;
+}
+
+h4 {
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+    font-weight: bold;
+}
+
+p {
+    color: black;
+    padding: 20px;
+    font-size: medium;
+}
+
+/* Navigation Bar */
+
+.navbar {
+    padding: 0 0 3rem;
+}
+
+.navbar-brand {
+    font-family: 'Playfair Display', sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.navbar-link {
+    font-family: 'Playfair Display', sans-serif;
+    font-size: 1.2rem; 
+}
+
+
